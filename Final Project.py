@@ -1,6 +1,6 @@
 #-------------------------------------------------------------------------
 #Visualization of Earth's average temperature trends from 1880 to 2022
-# Emily Kessel COMP_SCI 110 Final Project 
+
 #
 # NASA data
 # https://data.giss.nasa.gov/gistemp/
