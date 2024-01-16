@@ -2,7 +2,7 @@ READ ME
 Project by Emily Kessel
 
 For this project I was interested in looking at and visualizing the data supporting global warming. 
-I used a data set (provided in canvas) acquired from https://data.giss.nasa.gov/gistemp/ 
+I used a data set acquired from https://data.giss.nasa.gov/gistemp/ 
 
 Here’s what NASA says in reference to the GISTEMP data sets:
 “The GISS Surface Temperature Analysis version 4 (GISTEMP v4) is an estimate of global surface temperature change…The basic GISS temperature analysis scheme was defined in the late 1970s by James Hansen when a method of estimating global temperature change was needed for comparison with one-dimensional global climate models.”
